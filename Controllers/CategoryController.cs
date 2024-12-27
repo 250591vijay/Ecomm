@@ -3,7 +3,8 @@ using Ecomm.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-
+//Using
+//This is controller class
 namespace Ecomm.Controllers
 {
     [Route("api/[controller]")]
